@@ -9,8 +9,11 @@ The project showcases cloud deployment concepts and static website hosting witho
 ---
 
 iNTERNSHIP DETAILS:
+
 NAME:Siggari Naga Teja
+
 codetech intern id : CITS802
+
 
 ## Live Website
 
